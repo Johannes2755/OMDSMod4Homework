@@ -17,7 +17,6 @@ To link your **Synapse Workspace** to a storage account, it may need to be **upg
 3. Click **Review and agree to changes** to proceed with the upgrade.
 4. **Validate your account** to check for any features that may not be supported.
 5. Once validation is complete, **start the upgrade** process.
-6. After the upgrade, confirm that **Hierarchical Namespace** is enabled under **Configuration**.
 
 ---
 
